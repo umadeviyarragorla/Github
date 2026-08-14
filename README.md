@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🧠 GitHub Commit Lab (Github-Contribution-Graph-Hack)
 
 Create **custom patterns, text, or designs** on your GitHub contribution graph using automated commits.
@@ -216,3 +217,6 @@ Made with ❤️ by **Aura Farmer**
 If you find this project useful, consider giving it a ⭐ on GitHub!
 
 
+=======
+# Github
+>>>>>>> d9f7ceccaa7e5a10ccb78e0c152215a96f3c6567
